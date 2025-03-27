@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.19)  21 JAN 2025 13:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.4)  27 MAR 2025 13:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -62,7 +62,7 @@ Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip50
 )
 (C:\Users\vaibh\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
-Package: titlesec 2023/10/27 v2.16 Sectioning titles
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box52
 \beforetitleunit=\skip51
 \aftertitleunit=\skip52
@@ -97,7 +97,7 @@ Package: verbatim 2023-11-06 v1.5v LaTeX2e package for verbatim enhancements
 \verbatim@in@stream=\read2
 )
 (C:\Users\vaibh\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
-Package: enumitem 2019/06/20 v3.9 Customized lists
+Package: enumitem 2025/02/06 v3.11 Customized lists
 \enitkv@toks@=\toks20
 \labelindent=\skip53
 \enit@outerparindent=\dimen146
@@ -258,17 +258,23 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip54
 )
 (C:\Users\vaibh\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
-rs
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
 \f@nch@headwidth=\skip55
-\f@nch@O@elh=\skip56
-\f@nch@O@erh=\skip57
-\f@nch@O@olh=\skip58
-\f@nch@O@orh=\skip59
-\f@nch@O@elf=\skip60
-\f@nch@O@erf=\skip61
-\f@nch@O@olf=\skip62
-\f@nch@O@orf=\skip63
+\f@nch@offset@elh=\skip56
+\f@nch@offset@erh=\skip57
+\f@nch@offset@olh=\skip58
+\f@nch@offset@orh=\skip59
+\f@nch@offset@elf=\skip60
+\f@nch@offset@erf=\skip61
+\f@nch@offset@olf=\skip62
+\f@nch@offset@orf=\skip63
+\f@nch@height=\skip64
+\f@nch@footalignment=\skip65
+\f@nch@widthL=\skip66
+\f@nch@widthC=\skip67
+\f@nch@widthR=\skip68
+\@temptokenb=\toks23
 )
 (C:\Users\vaibh\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2024/01/07 v24.1 The Babel package
@@ -310,9 +316,9 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen152
 \ar@mcellbox=\box54
 \extrarowheight=\dimen153
-\NC@list=\toks23
-\extratabsurround=\skip64
-\backup@length=\skip65
+\NC@list=\toks24
+\extratabsurround=\skip69
+\backup@length=\skip70
 \ar@cellbox=\box55
 )
 \TX@col@width=\dimen154
@@ -321,7 +327,7 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \TX@target=\dimen157
 \TX@delta=\dimen158
 \TX@cols=\count278
-\TX@ftn=\toks24
+\TX@ftn=\toks25
 )
 (C:\Users\vaibh\AppData\Local\Programs\MiKTeX\tex/generic/pdftex\glyphtounicode
 .tex) (C:\Users\vaibh\AppData\Local\Programs\MiKTeX\tex/latex/lato\lato.sty
@@ -351,8 +357,8 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
 (C:\Users\vaibh\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
 (C:\Users\vaibh\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks25
-\XKV@tempa@toks=\toks26
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
 )
 \XKV@depth=\count279
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -394,12 +400,12 @@ ii
 \scratchbox=\box56
 \nofMPsegments=\count281
 \nofMParguments=\count282
-\everyMPshowfont=\toks27
+\everyMPshowfont=\toks28
 \MPscratchCnt=\count283
 \MPscratchDim=\dimen160
 \MPnumerator=\count284
 \makeMPintoPDFobject=\count285
-\everyMPtoPDFconversion=\toks28
+\everyMPtoPDFconversion=\toks29
 )
 Package hyperref Info: Link coloring OFF on input line 58.
  (resume.out) (resume.out)
@@ -515,10 +521,10 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 8178769A591DAE54593BE5DC5893BD68;390.
  ) 
 Here is how much of TeX's memory you used:
- 14482 strings out of 474486
- 255192 string characters out of 5743755
- 1962542 words of memory out of 5000000
- 36542 multiletter control sequences out of 15000+600000
+ 14648 strings out of 474486
+ 259104 string characters out of 5743756
+ 1968542 words of memory out of 5000000
+ 36708 multiletter control sequences out of 15000+600000
  599223 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,358b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -530,7 +536,7 @@ h/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Italic.pfb><C:/U
 sers/vaibh/AppData/Local/Programs/MiKTeX/fonts/type1/typoland/lato/Lato-Regular
 .pfb><C:/Users/vaibh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmsy5.pfb>
-Output written on resume.pdf (1 page, 113615 bytes).
+Output written on resume.pdf (1 page, 118310 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
